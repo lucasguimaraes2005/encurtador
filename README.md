@@ -4,7 +4,7 @@ API para encurtador de URL
 ## Rodando localmente
 Clone este repositório
 ```bash
-git clone https://github.com/gbezerradev/url-shortner.git
+git clone https://github.com/lucasguimaraes2005/encurtador.git
 ```
 
 Entre no diretório do projeto
