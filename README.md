@@ -9,7 +9,7 @@ git clone https://github.com/lucasguimaraes2005/encurtador.git
 
 Entre no diretório do projeto
 ```bash
-cd url-shortner
+cd encurtador
 ```
 
 Instale as dependências
